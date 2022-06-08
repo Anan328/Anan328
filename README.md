@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anan328&show_icons=true&locale=en&layout=compact" alt="anan328" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anan328&show_icons=true&locale=en" alt="anan328" /></p>
  </div> 
-   <h2> ## Here's where you can find me - 📫<a href= "mailto:ananshah328@gmail.com">ananshah328@gmail.com </a> </h2>
+   <h3> Here's where you can find me - 📫<a href= "mailto:ananshah328@gmail.com">ananshah328@gmail.com </a> </h3><hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
