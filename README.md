@@ -1,10 +1,3 @@
-<head>
- <style>
-    #pos{
-    display=block;
-  }
-  </style>
- </head>
 <h1 align="center">Hi 👋, I'm Anan</h1>
 <h3 align="center">A Computer Science and Engineering Student. Welcome to my GitHub Profile.</h3>
 
