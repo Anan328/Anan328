@@ -1,7 +1,7 @@
 <head>
  <style>
     #pos{
-    display=flex;
+    display=block;
   }
   </style>
  </head>
