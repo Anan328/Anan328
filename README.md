@@ -28,7 +28,7 @@
   <img src = "https://img.icons8.com/color/344/python--v1.png" height = "30" title = "Python"> <nbsp>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" height = "30" title = "C Language"> <nbsp>
 </p></td>
-    
+    <td> <p>
   <img src = "https://img.icons8.com/color/344/mysql-logo.png" height = "30" title = "mySQL"> <nbsp>
 </p></td>
 
