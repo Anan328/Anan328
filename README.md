@@ -29,17 +29,15 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" height = "30" title = "C Language"> <nbsp>
 </p></td>
     
-      <td><p>
   <img src = "https://img.icons8.com/color/344/mysql-logo.png" height = "30" title = "mySQL"> <nbsp>
 </p></td>
 
-        <td><p>
+   <td><p>
   <img src = "https://img.icons8.com/color/344/figma--v1.png" height = "30" title = "Figma"> <nbsp>
   <img src = "https://img.icons8.com/color/344/adobe-photoshop--v1.png" height = "30" title = "PhotoShop"> <nbsp>
 </p></td>                                                                                           
 </tr>
 </table>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anan328&show_icons=true&locale=en&layout=compact" alt="anan328" /></p>
 
