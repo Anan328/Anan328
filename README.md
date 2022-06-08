@@ -3,16 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamanan3" target="blank"><img src="https://img.shields.io/twitter/follow/iamanan3?logo=twitter&style=for-the-badge" alt="iamanan3" /></a> </p>
 
-- 📫 How to reach me **ananshah328@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamanan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamanan3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anan-shah-a3a1381bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anan-shah-a3a1381bb" height="30" width="40" /></a>
-<a href="https://instagram.com/anan_328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anan_328" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anan28" height="30" width="40" /></a>
-</p>
-
 ## Some of my Skills 📚...
 <table border="0" align = "center">
  <tr>
@@ -42,3 +32,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anan328&show_icons=true&locale=en&layout=compact" alt="anan328" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anan328&show_icons=true&locale=en" alt="anan328" /></p>
+     - 📫 How to reach me **ananshah328@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamanan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamanan3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anan-shah-a3a1381bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anan-shah-a3a1381bb" height="30" width="40" /></a>
+<a href="https://instagram.com/anan_328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anan_328" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anan28" height="30" width="40" /></a>
+</p>
