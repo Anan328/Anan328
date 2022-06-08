@@ -28,9 +28,9 @@
 </p></td>                                                                                           
 </tr>
 </table>
-
+<div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anan328&show_icons=true&locale=en&layout=compact" alt="anan328" /></p>
-
+</div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anan328&show_icons=true&locale=en" alt="anan328" /></p>
      - 📫 How to reach me <a href= "mailto:ananshah328@gmail.com">ananshah328@gmail.com </a>
 
