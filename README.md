@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/iamanan3" target="blank"><img src="https://img.shields.io/twitter/follow/iamanan3?logo=twitter&style=for-the-badge" alt="iamanan3" /></a> </p>
 
 ## Some of my Skills 📚...
-<table border="0" align = "left" width="50%">
+<table border="0" align = "left" width="50px">
  <tr>
     <td><h4>Languages<h4></td>
     <td><h4>DBMS</h4></td>
