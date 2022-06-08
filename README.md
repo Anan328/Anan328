@@ -28,6 +28,8 @@
 </p></td>                                                                                           
 </tr>
 </table>
+     
+## Some Stats 📊...
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anan328&show_icons=true&locale=en&layout=compact" alt="anan328" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anan328&show_icons=true&locale=en" alt="anan328" /></p>
