@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/iamanan3" target="blank"><img src="https://img.shields.io/twitter/follow/iamanan3?logo=twitter&style=for-the-badge" alt="iamanan3" /></a> </p>
 
 ## Some of my Skills 📚...
-<table border="0" align = "left">
+<table border="0" align = "left" width="50%">
  <tr>
     <td><h4>Languages<h4></td>
     <td><h4>DBMS</h4></td>
@@ -28,11 +28,10 @@
 </p></td>                                                                                           
 </tr>
 </table>
-     <p>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anan328&show_icons=true&locale=en&layout=compact" alt="anan328" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anan328&show_icons=true&locale=en" alt="anan328" /></p>
- </div> </p>
+ </div> 
      - 📫 How to reach me <a href= "mailto:ananshah328@gmail.com">ananshah328@gmail.com </a>
 
 <h3 align="left">Connect with me:</h3>
