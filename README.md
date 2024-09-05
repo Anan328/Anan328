@@ -1,45 +1,33 @@
-<h1 align="center">Hi 👋, I'm Anan</h1>
-<h3 align="center">A Computer Science and Engineering Student. Welcome to my GitHub Profile.</h3>
+# Hi there, I'm ANAN! 👋
 
-<p align="left"> <a href="https://twitter.com/iamanan3" target="blank"><img src="https://img.shields.io/twitter/follow/iamanan3?logo=twitter&style=for-the-badge" alt="iamanan3" /></a> </p>
+Welcome to my GitHub profile! I’m a passionate developer who loves coding and designing. Here's a little about me and the skills I bring to the table.
 
-## Some of my Skills 📚...
-<table border="0" align = "center">
- <tr>
-    <td><h4>Languages<h4></td>
-    <td><h4>DBMS</h4></td>
-    <td><h4>Designing</h4></td>
- </tr>
- <tr>
-    <td><p>
-  <img src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" height = "30" title = "HTML"> <nbsp>
-  <img src = "https://cdn-icons-png.flaticon.com/512/732/732190.png" height = "30" title = "CSS"> <nbsp>
-  <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height = "30" title = "JS"> <nbsp>
-  <img src = "https://img.icons8.com/color/344/python--v1.png" height = "30" title = "Python"> <nbsp>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" height = "30" title = "C Language"> <nbsp>
-</p></td>
-    <td> <p>
-  <img src = "https://img.icons8.com/color/344/mysql-logo.png" height = "30" title = "mySQL"> <nbsp>
-</p></td>
+## 🛠️ Technologies & Tools
 
-   <td><p>
-  <img src = "https://img.icons8.com/color/344/figma--v1.png" height = "30" title = "Figma"> <nbsp>
-  <img src = "https://img.icons8.com/color/344/adobe-photoshop--v1.png" height = "30" title = "PhotoShop"> <nbsp>
-</p></td>                                                                                           
-</tr>
-</table>
-     
-## Some Stats 📊...
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anan328&show_icons=true&locale=en&layout=compact" alt="anan328" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anan328&show_icons=true&locale=en" alt="anan328" /></p>
- </div> 
-   <h3> Here's where you can find me - 📫<a href= "mailto:ananshah328@gmail.com">ananshah328@gmail.com </a> </h3><hr>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamanan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamanan3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anan-shah-a3a1381bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anan-shah-a3a1381bb" height="30" width="40" /></a>
-<a href="https://instagram.com/anan_328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anan_328" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anan28" height="30" width="40" /></a>
-</p>
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Anan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 🔝 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
